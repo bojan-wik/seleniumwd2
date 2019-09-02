@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a94d62d-f4d3-4914-9b60-7d339efe1683" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WorkingWithElements/dropdownSelect.py" afterDir="false" />
+    <list default="true" id="5a94d62d-f4d3-4914-9b60-7d339efe1683" name="Default Changelist" comment="Adding 'dropdownSelect.py' file.">
+      <change afterPath="$PROJECT_DIR$/FindingElements/getText.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,7 +27,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="C:/cmder/vendor/git-for-windows/bin/git.exe" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EtoS" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -42,49 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.dropdownSelect">
-    <configuration name="ElementState" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="seleniumwd2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithElements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkingWithElements/ElementState.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="RadioButtonsAndCheckboxes" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="seleniumwd2" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithElements" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkingWithElements/RadioButtonsAndCheckboxes.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.getText">
     <configuration name="WorkingWithElementsLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="seleniumwd2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -127,6 +85,48 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="getText" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FindingElements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FindingElements/getText.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hiddenElements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="seleniumwd2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithElements" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkingWithElements/hiddenElements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="performance_test_bojanoww" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rs_test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.getText" />
         <item itemvalue="Python.dropdownSelect" />
-        <item itemvalue="Python.WorkingWithElementsLists" />
+        <item itemvalue="Python.hiddenElements" />
         <item itemvalue="Python.performance_test_bojanoww" />
-        <item itemvalue="Python.RadioButtonsAndCheckboxes" />
-        <item itemvalue="Python.ElementState" />
+        <item itemvalue="Python.WorkingWithElementsLists" />
       </list>
     </recent_temporary>
   </component>
@@ -169,6 +169,21 @@
       <option name="presentableId" value="Default" />
       <updated>1564508615048</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding 'dropdownSelect.py' file.">
+      <created>1565102120852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565102120853</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding 'hiddenElements.py' file.">
+      <created>1566502026201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566502026201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,5 +198,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding 'dropdownSelect.py' file." />
+    <MESSAGE value="Adding 'hiddenElements.py' file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding 'hiddenElements.py' file." />
   </component>
 </project>
