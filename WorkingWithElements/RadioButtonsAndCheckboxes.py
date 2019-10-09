@@ -6,7 +6,7 @@ class RadioButtonsAndCheckboxes():
 
     def test(self):
         baseUrl = "https://letskodeit.teachable.com/p/practice/"
-        driverLocation = "C:/SeleniumDriver/chromedriver.exe"
+        driverLocation = "C:/Webdrivers/Chrome/77/chromedriver.exe"
         os.environ["webdriver.chrome.driver"] = driverLocation
         driver = webdriver.Chrome(driverLocation)
         driver.maximize_window()
