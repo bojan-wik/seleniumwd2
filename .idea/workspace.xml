@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a94d62d-f4d3-4914-9b60-7d339efe1683" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/UnitTestPackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestPackage/test_case_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnitTestPackage/test_case_demo2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkingWithElements/RadioButtonsAndCheckboxes.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkingWithElements/RadioButtonsAndCheckboxes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WorkingWithElements/WorkingWithElementsLists.py" beforeDir="false" afterPath="$PROJECT_DIR$/WorkingWithElements/WorkingWithElementsLists.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +25,13 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1Ok5B8F2afN9pCWQBBE9gD8J67C" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../różne" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
@@ -43,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.WorkingWithElementsLists">
+  <component name="RunManager" selected="Python tests.Unittests for test_case_demo2.TestCaseDemo2.test_methodA">
     <configuration name="WorkingWithElementsLists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="seleniumwd2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -107,55 +110,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hiddenElements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for test_case_demo2.TestCaseDemo2.test_methodA" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="seleniumwd2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WorkingWithElements" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTestPackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WorkingWithElements/hiddenElements.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_case_demo2.TestCaseDemo2.test_methodA&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="performance_test_bojanoww" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="rs_test" />
+    <configuration name="Unittests in test_case_demo.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="seleniumwd2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../rs_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/UnitTestPackage" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../rs_test/performance_test_bojanoww.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/UnitTestPackage/test_case_demo.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.Unittests for test_case_demo2.TestCaseDemo2.test_methodA" />
+        <item itemvalue="Python tests.Unittests in test_case_demo.py" />
         <item itemvalue="Python.WorkingWithElementsLists" />
         <item itemvalue="Python.getText" />
         <item itemvalue="Python.dropdownSelect" />
-        <item itemvalue="Python.hiddenElements" />
-        <item itemvalue="Python.performance_test_bojanoww" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567445022416</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="x">
+      <created>1570620327415</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1570620327415</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -210,6 +206,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding 'hiddenElements.py' file." />
     <MESSAGE value="Adding 'dropdownSelect.py' file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding 'dropdownSelect.py' file." />
+    <MESSAGE value="x" />
+    <option name="LAST_COMMIT_MESSAGE" value="x" />
   </component>
 </project>
