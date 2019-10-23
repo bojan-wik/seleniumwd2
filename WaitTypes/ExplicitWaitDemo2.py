@@ -2,9 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 import os
 import time
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions
-from selenium.common.exceptions import *
+from WaitTypes.ExplicitWaitType import ExplicitWaitType
 
 class ExplicitWaitDemo():
 
@@ -14,6 +12,7 @@ class ExplicitWaitDemo():
         os.environ["webdriver.chrome.driver"] = driverLocation
         driver = webdriver.Chrome(driverLocation)
         driver.implicitly_wait(.5)
+        wait = ExplicitWaitType(driver)
         driver.maximize_window()
         driver.get(baseUrl)
 
@@ -32,13 +31,8 @@ class ExplicitWaitDemo():
         # time.sleep(2)
         driver.find_element(By.XPATH, "/html//form[@id='gcw-flights-form-hp-flight']//button[@type='submit']").click()
 
-        wait = WebDriverWait(driver, 10, poll_frequency=1,
-                             ignored_exceptions=[NoSuchElementException,
-                                                 ElementNotVisibleException,
-                                                 ElementNotSelectableException])
-
-        nonstopCheckbox = wait.until(expected_conditions.element_to_be_clickable((By.ID, "stopFilter_stops-0")))
-        nonstopCheckbox.click()
+        element = wait.waitForElement("stopFilter_stops-0")
+        element.click()
 
         time.sleep(2)
         driver.quit()

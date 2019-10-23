@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a94d62d-f4d3-4914-9b60-7d339efe1683" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WaitTypes/ExplicitWaitDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WaitTypes/ImplicitWaitDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WaitTypes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaitTypes/ExplicitWaitDemo2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WaitTypes/ExplicitWaitType.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WaitTypes/ExplicitWaitDemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/WaitTypes/ExplicitWaitDemo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,11 +31,12 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Utilities" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/WaitTypes" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bojanoww\PycharmProjects\seleniumwd2\WaitTypes" />
       <recent name="C:\Users\bojanoww\PycharmProjects\seleniumwd2\Utilities" />
     </key>
   </component>
@@ -51,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ExplicitWaitDemo">
+  <component name="RunManager" selected="Python.ExplicitWaitDemo2">
     <configuration name="DynamicXpathFormat" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="seleniumwd2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -115,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HandyWrappers" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="ExplicitWaitDemo2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="seleniumwd2" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,11 +124,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Utilities" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WaitTypes" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Utilities/HandyWrappers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WaitTypes/ExplicitWaitDemo2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ExplicitWaitDemo2" />
         <item itemvalue="Python.ExplicitWaitDemo" />
         <item itemvalue="Python.ImplicitWaitDemo" />
         <item itemvalue="Python.DynamicXpathFormat" />
         <item itemvalue="Python.ElementPresenceCheck" />
-        <item itemvalue="Python.HandyWrappers" />
       </list>
     </recent_temporary>
   </component>
