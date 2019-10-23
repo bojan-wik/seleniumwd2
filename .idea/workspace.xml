@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a94d62d-f4d3-4914-9b60-7d339efe1683" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Utilities/DynamicXpathFormat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/ElementPresenceCheck.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/GetText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/HandyWrappers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/UsingWrappersDemo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Utilities/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utilities/DynamicXpathFormat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Utilities/DynamicXpathFormat.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -223,7 +218,14 @@
       <option name="project" value="LOCAL" />
       <updated>1571249381669</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Updating UnitTestPackage">
+      <created>1571759322222</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1571759322223</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
