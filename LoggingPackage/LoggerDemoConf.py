@@ -5,8 +5,8 @@ class LoggerDemoConf():
 
     def testLog(self):
         # create logger
-        logging.config.fileConfig("logging.conf")
-        logging.getLogger(LoggerDemoConf.__name__)
+        logging.config.fileConfig("logging-test.conf")
+        logger = logging.getLogger(LoggerDemoConf.__name__)
 
         # logging messages
         logger.debug("debug message")
