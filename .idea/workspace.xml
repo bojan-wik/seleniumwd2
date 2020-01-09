@@ -228,25 +228,41 @@
     <option name="LAST_COMMIT_MESSAGE" value="Adding 'dropdownSelect.py' file." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1578601533699">
+    <state x="424" y="28" key="CommitChangelistDialog2" timestamp="1578601571879">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578601533699" />
-    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1578601533699">
+    <state x="424" y="28" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1578601571879" />
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom" timestamp="1578601627050">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578601533699" />
-    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1578601533698">
+    <state width="1515" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1578601627050" />
+    <state width="1515" height="223" key="GridCell.Tab.0.center" timestamp="1578601627050">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578601533698" />
-    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1578601533699">
+    <state width="1515" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1578601627050" />
+    <state width="1515" height="223" key="GridCell.Tab.0.left" timestamp="1578601627050">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578601533699" />
+    <state width="1515" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1578601627050" />
+    <state width="1515" height="223" key="GridCell.Tab.0.right" timestamp="1578601627050">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1515" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1578601627050" />
+    <state x="147" y="75" key="MergeDialog" timestamp="1578601607266">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="147" y="75" key="MergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1578601607266" />
+    <state x="481" y="149" key="MultipleFileMergeDialog" timestamp="1578601613434">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="481" y="149" key="MultipleFileMergeDialog/0.0.1536.864@0.0.1536.864" timestamp="1578601613434" />
     <state x="277" y="76" key="SettingsEditor" timestamp="1578599872417">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="277" y="76" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1578599872417" />
+    <state x="361" y="166" key="Vcs.Push.Dialog.v2" timestamp="1578601576379">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="166" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1578601576379" />
   </component>
 </project>
