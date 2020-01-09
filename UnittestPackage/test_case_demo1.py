@@ -3,7 +3,7 @@ https://learning.oreilly.com/videos/selenium-webdriver-with/9781789131550/978178
 '''
 import unittest
 
-class TestCaseDemo(unittest.TestCase):
+class TestCaseDemo1(unittest.TestCase):
 
     # When a setUp() method is defined, the test runner will run that method prior to each test.
     def setUp(self):
