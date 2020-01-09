@@ -4,7 +4,7 @@ import os
 class RunChromeTests():
 
     def test(self):
-        driverLocation = "C:/Users/bojanoww/PycharmProjects/libs/chromedriver.exe"
+        driverLocation = "C:/Webdrivers/Chrome/77/chromedriver.exe"
         os.environ["webdriver.chrome.driver"] = driverLocation
         # Instantiate Chrome Browser Command
         driver = webdriver.Chrome(driverLocation)
